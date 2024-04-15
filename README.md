@@ -107,7 +107,8 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![exp2 1](https://github.com/arunkumarsukdevchavan/Image_Acqusition-_using_Web_Camera/assets/118343978/b087d948-6d40-4df1-be44-2b548bd50ca5)
+
+![exp2 1](https://github.com/arunkumarsukdevchavan/Image_Acqusition-_using_Web_Camera/assets/118343978/f38e3ad7-7e36-4001-b5c2-27b54762b36d)
 
 
 </br>
